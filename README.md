@@ -207,6 +207,9 @@ The following libraries are required by the sample, and here is the example of
 how to set up libraries in the sample application directory.
 Alternatively, the libraries may be installed to the system by setup.py script
 included in each library.
+Or, you can try this:
+
+    make install-dependencies
 
 ##### Google Client API
 
